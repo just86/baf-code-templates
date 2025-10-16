@@ -1,12 +1,13 @@
 # 🚀 Шаблони коду для 1С:Підприємство 8.3
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![1C:Enterprise](https://img.shields.io/badge/1C-8.3-blue.svg)](https://1c.ru/)
-[![Language](https://img.shields.io/badge/language-1C-orange.svg)](https://1c.ru/)
+[![1C:Enterprise](https://img.shields.io/badge/1C-8.3-blue.svg)](https://unionba.com.ua/)
+[![Language](https://img.shields.io/badge/language-1C-orange.svg)](https://unionba.com.ua/)
 
+<img width="14" height="20" alt="image" src="https://github.com/user-attachments/assets/b6180e9c-66fe-4cf3-bfb6-695cec971f54" />
 Колекція готових до використання шаблонів коду для 1С:Підприємство 8.3 з детальними коментарями, прикладами використання та best practices.
-
----
+Користуємося і не забуваємо, що росія - країна агресор, країна терорист. 
+<img width="14" height="20" alt="image" src="https://github.com/user-attachments/assets/b6180e9c-66fe-4cf3-bfb6-695cec971f54" />
 
 ## 📑 Зміст
 
@@ -685,6 +686,7 @@
 - 🔄 **Поділіться** з колегами
 - 💬 **Залиште відгук** в Issues
 - 🤝 **Додайте** свої шаблони
+- 🤝 **Зробіть донат на ЗСУ** 
 
 ---
 
