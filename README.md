@@ -3,8 +3,8 @@
 > ### ⚠️ Користуємося і не забуваємо, що росія - країна агресор, країна терорист.
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![BAF 8.3](https://img.shields.io/badge/BAF-8.3-blue.svg)](https://1c.ru/)
-[![Language](https://img.shields.io/badge/language-BAF-orange.svg)](https://1c.ru/)
+[![BAF 8.3](https://img.shields.io/badge/BAF-8.3-blue.svg)](https://unionba.com.ua/)
+[![Language](https://img.shields.io/badge/language-BAF-orange.svg)](https://unionba.com.ua/)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 Колекція готових до використання шаблонів коду для Business Automation Framework 8.3 з детальними коментарями, прикладами використання та best practices.
