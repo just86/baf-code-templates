@@ -1,5 +1,5 @@
-# 🚀 Шаблони коду для Business Automation Framework 8.3
-
+# <img width="18" height="26" alt="image" src="https://github.com/user-attachments/assets/558e6c52-5b91-43e6-9270-1edcc2d5bd51" /> Шаблони коду для Business Automation Framework 8.3
+ 
 > ### ⚠️ Користуємося і не забуваємо, що росія - країна агресор, країна терорист.
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
