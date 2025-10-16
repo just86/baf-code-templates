@@ -1,4 +1,5 @@
-# 🚀 Шаблони коду для 1С:Підприємство 8.3
+# <img width="73" height="102" alt="image" src="https://github.com/user-attachments/assets/8a26833b-c307-4742-b28b-0e629825ae9d" /> Шаблони коду для 1С:Підприємство 8.3
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![1C:Enterprise](https://img.shields.io/badge/1C-8.3-blue.svg)](https://unionba.com.ua/)
